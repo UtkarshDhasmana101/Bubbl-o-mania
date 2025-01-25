@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/[your-username]/[your-repository-name].git
 
-## 🎮🕹️🔥 <u>Team Members</u>
+## 🎮 <u>Team Members</u>
 
 - **Utkarsh Dhashmana**
 - **Aryan Dubey**
